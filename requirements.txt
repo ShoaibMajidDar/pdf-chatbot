@@ -1,5 +1,5 @@
 langchain
-FAISS-cpu
+faiss-cpu
 OpenAI
 PyPDF2
 tiktoken
