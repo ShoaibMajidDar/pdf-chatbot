@@ -7,7 +7,7 @@ import os
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 
 uploaded_file = st.file_uploader('Choose your .pdf file', type="pdf")
 
